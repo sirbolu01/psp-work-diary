@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Professional Software Projects GitHub Diary Guidance
 
 This repo contains
@@ -101,3 +102,14 @@ Success: Shared understanding of system architecture, technology stack defined
 Challenges: Unfamiliar technologies, configuration issues
 
 Action: Improve documentation, prioritize early integration testing, maintain team communication
+=======
+Your name
+Boluwaji Fagbolagun
+Your student ID
+c4053497
+Your team name / number
+ Alex hindmarsh / 33077813
+ Hadia Ibrahim / C4004170
+ James Rietbrock / c3017038
+ Dillon Dawson / c3029746
+>>>>>>> 48d917cd21f6c3f8482772f231fa3ca18dcea898
