@@ -1,11 +1,5 @@
-# Tips for this week
-
-Provide evidence that your team has completed the Git/Github Recipes lab.
-
-Comment on your growing understanding of the client's requirements.  This may include a draft MoSCoW analysis.  Outline tools set up to help the team work together.
-
-Create a retrospective entry for week one and and `read.md` file. 
-
+# Week 2
+r
 ## Week 2 – Requirements Refinement, Collaboration Tools, and Retrospective
 
 During Week 2, the team completed the Git/GitHub Recipes lab as required. This involved applying core version control practices, including cloning the repository, creating and working on branches, committing changes with clear and meaningful messages, pulling updates from the remote repository, and pushing changes back to GitHub.
