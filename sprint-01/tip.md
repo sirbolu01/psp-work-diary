@@ -1,3 +1,5 @@
+# Sprint 1
+
 During the sprint week, my focus shifted from preparation and learning into active integration, testing, and issue resolution. Each day began with discussions with my teammates to review progress, identify blockers, and ensure that everyone was working toward the same sprint goals. I worked closely with the team to confirm that we were aligned on configuration decisions and that the backend was set up consistently across development environments.
 
 A key responsibility during the sprint was validating the backend API’s connection to the MySQL database and ensuring that this data could be successfully consumed by the frontend application. I regularly ran the backend locally to verify database credentials, ports, and environment-specific settings. When issues occurred, such as failed API responses or connection errors, I communicated findings with my teammates and worked collaboratively to resolve them before they affected overall progress.
