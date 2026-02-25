@@ -1,6 +1,4 @@
-# Tips for this week
-
-Comment on the personality type identified in the questionnaire.  Discuss the role you hope to play in the team.
+# Week 1
 
 Based on the personality questionnaire completed during Week 1, my results indicated that I am a methodical and analytical team member who prefers structured problem-solving and careful planning before implementation. I tend to focus on understanding systems in depth and identifying how different components interact, rather than working purely at surface level. This aligns strongly with my approach during the early stages of the MollyLimpets project, where I prioritised understanding the overall architecture before making technical decisions.
 
