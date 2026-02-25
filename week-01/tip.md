@@ -1,3 +1,11 @@
 # Tips for this week
 
 Comment on the personality type identified in the questionnaire.  Discuss the role you hope to play in the team.
+
+Based on the personality questionnaire completed during Week 1, my results indicated that I am a methodical and analytical team member who prefers structured problem-solving and careful planning before implementation. I tend to focus on understanding systems in depth and identifying how different components interact, rather than working purely at surface level. This aligns strongly with my approach during the early stages of the MollyLimpets project, where I prioritised understanding the overall architecture before making technical decisions.
+
+My personality type also highlighted that I work best in collaborative environments where communication is clear and responsibilities are well defined. I am comfortable supporting others by troubleshooting issues, sharing technical understanding, and helping align team members when inconsistencies arise. Rather than leading through authority, I contribute by ensuring stability, clarity, and consistency within the team’s work.
+
+Within the MollyLimpets team, the role I hope to play is that of a technical support and integration-focused developer. I aim to take responsibility for understanding backend configuration, database connectivity, and frontend–backend communication, ensuring that all parts of the system work together reliably. This includes supporting teammates when configuration or integration issues occur and helping standardise approaches across development environments.
+
+By adopting this role, I believe I can contribute effectively to the team’s success by reducing integration risks, improving technical consistency, and supporting smooth collaboration throughout the sprint. This role also supports my personal development goals by allowing me to build confidence with unfamiliar technologies while contributing meaningfully to the project’s progress
